@@ -3,7 +3,9 @@ The game "Kings of Dominia", created for the "Indie Games" lecture.
 
 This game features domino-based puzzles set in a fantastical medieval world. 
 
-To find out more, please visit the provided project link.
+For fast try, either download the [Windows](https://alexanderepple.de/wp-content/uploads/2020/04/Windows.zip) version or the [Android](https://alexanderepple.de/wp-content/uploads/2020/04/Android.zip) version. 
+
+The game heavily relies on TouchScreen. To find out more, please visit the provided project link.
 
 # Game Play
 
