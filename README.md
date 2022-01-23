@@ -5,9 +5,16 @@ This game features domino-based puzzles set in a fantastical medieval world.
 
 For fast try, either download the [Windows](https://alexanderepple.de/wp-content/uploads/2020/04/Windows.zip) version or the [Android](https://alexanderepple.de/wp-content/uploads/2020/04/Android.zip) version. 
 
-The game heavily relies on TouchScreen. To find out more, please visit the provided project link.
+The game relies heavily on touch screen. To find out more, please visit the provided [project link](https://alexanderepple.de/portfolio/kings-of-dominia/). Slides and trailer can be downloaded from [Drive](https://drive.google.com/drive/folders/14YgK6Eb_6xhRdhS2C4JcsJXGS_BHzF6d?usp=sharing).
 
-# Game Play
+
+## Trailer
+
+https://user-images.githubusercontent.com/34072813/150684983-449da28a-82a0-4b2b-827b-990cea834fb0.mp4
+
+
+
+## Game Play
 
 ### Knock down the King
 <img src="https://user-images.githubusercontent.com/34072813/150656674-f44be52a-3049-4a81-89ce-4c07fdfea259.PNG" width=50% height=50%>
@@ -35,8 +42,3 @@ The game heavily relies on TouchScreen. To find out more, please visit the provi
 
 ### UI overview
 <img src="https://user-images.githubusercontent.com/34072813/150656868-80855f33-7045-4a8d-9352-16098309a4d6.PNG" width=50% height=50%>
-
-
-
-# Trailer
-[<img src="https://img.youtube.com/vi/cMFjXeLQtOw/maxresdefault.jpg" width="60%">](https://youtu.be/cMFjXeLQtOw)
